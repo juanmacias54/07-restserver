@@ -16,10 +16,6 @@
     <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="Version v.0.0.1">
       <change afterPath="$PROJECT_DIR$/../../jma-rest-server/.idea/jma-rest-server.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../jma-rest-server/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/07-restserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/07-restserver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +79,7 @@
       <updated>1597324814550</updated>
       <workItem from="1597324815683" duration="580000" />
       <workItem from="1597416582500" duration="15269000" />
-      <workItem from="1597509150825" duration="710000" />
+      <workItem from="1597509150825" duration="941000" />
     </task>
     <task id="LOCAL-00001" summary="Version 2">
       <created>1597504805838</created>
