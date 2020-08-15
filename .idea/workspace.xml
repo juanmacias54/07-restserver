@@ -16,6 +16,7 @@
     <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="Version v.0.0.1">
       <change afterPath="$PROJECT_DIR$/../../jma-rest-server/.idea/jma-rest-server.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../jma-rest-server/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <updated>1597324814550</updated>
       <workItem from="1597324815683" duration="580000" />
       <workItem from="1597416582500" duration="15269000" />
-      <workItem from="1597509150825" duration="2468000" />
+      <workItem from="1597509150825" duration="3011000" />
     </task>
     <task id="LOCAL-00001" summary="Version 2">
       <created>1597504805838</created>
@@ -143,10 +144,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597505440213" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597509695873">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597512280314">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597509695873" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597512280314" />
     <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597508638665">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
