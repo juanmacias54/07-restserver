@@ -3,10 +3,22 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="">
+    <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="Version v.0.0.1">
+      <change afterPath="$PROJECT_DIR$/../../jma-rest-server/.idea/jma-rest-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jma-rest-server/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/07-restserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/07-restserver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +34,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -31,14 +49,18 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1g2u41uBzGzjLz7RemUXTvhjcOT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,7 +68,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -60,19 +82,59 @@
       <option name="presentableId" value="Default" />
       <updated>1597324814550</updated>
       <workItem from="1597324815683" duration="580000" />
-      <workItem from="1597416582500" duration="12534000" />
+      <workItem from="1597416582500" duration="15269000" />
+      <workItem from="1597509150825" duration="710000" />
     </task>
+    <task id="LOCAL-00001" summary="Version 2">
+      <created>1597504805838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597504805838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Version 2">
+      <created>1597504815582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597504815582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Version 2" />
+    <MESSAGE value="Version v.0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version v.0.0.1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Deployment" timestamp="1597509658806">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1597509658806" />
+    <state x="365" y="231" key="#Notifications" timestamp="1597505991988">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="365" y="231" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1597505991988" />
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597501157760">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -81,10 +143,22 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="446" y="308" key="Github.CreateGistDialog/0.0.1280.800@0.0.1280.800" timestamp="1597500695893" />
-    <state x="141" y="39" key="SettingsEditor" timestamp="1597504564329">
+    <state x="141" y="39" key="SettingsEditor" timestamp="1597505440213">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597504564329" />
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597505440213" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597509695873">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597509695873" />
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597508638665">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1597508638665" />
+    <state x="357" y="251" key="git4idea.ui.GitTagDialog" timestamp="1597508615310">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="357" y="251" key="git4idea.ui.GitTagDialog/0.0.1280.800@0.0.1280.800" timestamp="1597508615310" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1597503513476">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

@@ -12,5 +12,6 @@
     <orderEntry type="library" name="@types/express" level="application" />
     <orderEntry type="library" name="@types/node" level="application" />
     <orderEntry type="library" name="@types/git" level="application" />
+    <orderEntry type="module" module-name="jma-rest-server" />
   </component>
 </module>
