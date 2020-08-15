@@ -35,9 +35,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="" />
@@ -46,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597324814550</updated>
       <workItem from="1597324815683" duration="580000" />
-      <workItem from="1597416582500" duration="8350000" />
+      <workItem from="1597416582500" duration="10601000" />
     </task>
     <servers />
   </component>
@@ -54,9 +57,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="39" key="SettingsEditor" timestamp="1597428071294">
+    <state x="446" y="308" key="Github.CreateGistDialog" timestamp="1597494757240">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597428071294" />
+    <state x="446" y="308" key="Github.CreateGistDialog/0.0.1280.800@0.0.1280.800" timestamp="1597494757240" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1597500612219">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597500612219" />
   </component>
 </project>
