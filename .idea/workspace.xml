@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="" />
+    <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/07-restserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/07-restserver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -21,6 +31,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1g2u41uBzGzjLz7RemUXTvhjcOT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +46,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -49,21 +60,34 @@
       <option name="presentableId" value="Default" />
       <updated>1597324814550</updated>
       <workItem from="1597324815683" duration="580000" />
-      <workItem from="1597416582500" duration="10601000" />
+      <workItem from="1597416582500" duration="12534000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="308" key="Github.CreateGistDialog" timestamp="1597494757240">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597501157760">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="446" y="308" key="Github.CreateGistDialog/0.0.1280.800@0.0.1280.800" timestamp="1597494757240" />
-    <state x="141" y="39" key="SettingsEditor" timestamp="1597500612219">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1597501157760" />
+    <state x="446" y="308" key="Github.CreateGistDialog" timestamp="1597500695893">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597500612219" />
+    <state x="446" y="308" key="Github.CreateGistDialog/0.0.1280.800@0.0.1280.800" timestamp="1597500695893" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1597504564329">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597504564329" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1597503513476">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1597503513476" />
   </component>
 </project>
