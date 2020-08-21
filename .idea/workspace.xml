@@ -8,7 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="Version 2" />
+    <list default="true" id="cf6f840c-34a6-4534-96f6-323da7445d97" name="Default Changelist" comment="Version 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/server.js" working-dir="$PROJECT_DIR$/server">
@@ -111,7 +113,7 @@
       <workItem from="1597698329852" duration="1026000" />
       <workItem from="1597707600662" duration="1586000" />
       <workItem from="1597710527553" duration="11388000" />
-      <workItem from="1597845916884" duration="18696000" />
+      <workItem from="1597845916884" duration="20177000" />
     </task>
     <task id="LOCAL-00001" summary="Version 2">
       <created>1597504805838</created>
@@ -127,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597504815582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Version 2">
+      <created>1598043388744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598043388744</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,19 +177,19 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../jma-rest-server" />
     </ignored-roots>
-    <MESSAGE value="Version 2" />
     <MESSAGE value="Version v.0.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version v.0.0.1" />
+    <MESSAGE value="Version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="240" y="65" key="#Deployment" timestamp="1597509658806">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1597509658806" />
-    <state x="365" y="231" key="#Notifications" timestamp="1597846283484">
+    <state x="365" y="231" key="#Notifications" timestamp="1598044856383">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="365" y="231" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1597846283484" />
+    <state x="365" y="231" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1598044856383" />
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597501157760">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -253,18 +262,18 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="629" height="264" key="GridCell.Tab.3.right/0.0.1280.800@0.0.1280.800" timestamp="1598041940860" />
-    <state x="141" y="39" key="SettingsEditor" timestamp="1597849302964">
+    <state x="141" y="39" key="SettingsEditor" timestamp="1598044825957">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597849302964" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597956192376">
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1598044825957" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1598043394561">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597956192376" />
-    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597846383996">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1598043394561" />
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598043354598">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1597846383996" />
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1598043354598" />
     <state x="357" y="251" key="git4idea.ui.GitTagDialog" timestamp="1597508615310">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -277,17 +286,5 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="370" y="319" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.800@0.0.1280.800" timestamp="1597586303620" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/server/server.js</url>
-          <line>18</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
