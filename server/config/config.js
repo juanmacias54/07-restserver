@@ -21,7 +21,8 @@ if (process.env.NODE_ENV === 'dev'){
     urlDB = 'mongodb://localhost:27017/cafe';
 }
 else{
-    urlDB = 'mongodb+srv://juanmacias54:ne8Mtw123SzVCSKS@cluster0.dphbs.mongodb.net/cafe';
+    urlDB = process.env.MONGO_URI;
+   // urlDB = 'mongodb+srv://juanmacias54:ne8Mtw123SzVCSKS@cluster0.dphbs.mongodb.net/cafe';
 }
 
 process.env.URLDB = urlDB;

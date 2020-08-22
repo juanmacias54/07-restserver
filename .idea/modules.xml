@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/07-restserver.iml" filepath="$PROJECT_DIR$/.idea/07-restserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-restserverv2/.idea/07-restserverv2.iml" filepath="$PROJECT_DIR$/../07-restserverv2/.idea/07-restserverv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../jma-rest-server/.idea/jma-rest-server.iml" filepath="$PROJECT_DIR$/../../jma-rest-server/.idea/jma-rest-server.iml" />
     </modules>
   </component>
