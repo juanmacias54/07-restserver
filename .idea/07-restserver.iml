@@ -13,6 +13,5 @@
     <orderEntry type="library" name="@types/node" level="application" />
     <orderEntry type="library" name="@types/git" level="application" />
     <orderEntry type="module" module-name="jma-rest-server" />
-    <orderEntry type="module" module-name="07-restserverv2" />
   </component>
 </module>
